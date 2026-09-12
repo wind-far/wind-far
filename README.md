@@ -1,60 +1,54 @@
-<div align="center">
+# Hi, I'm Wind 👋
 
-# Hi, I'm Wind.
+[![Explore Wind's product workspace](https://raw.githubusercontent.com/wind-far/wind-far/main/assets/profile-banner.svg)](https://github.com/wind-far?tab=repositories)
 
-**AI Native Product Manager · AI Builder**
+<p align="center"><sub>点击上方窗口，探索我的产品项目</sub></p>
 
-把 AI 想法，做成可使用、可验证的产品。
+I'm an AI Native Product Manager and AI Builder.  
+I explore how AI capabilities become useful product experiences.  
+My work connects product framing, interaction design, and working prototypes.
 
-从场景判断、交互设计到原型实现，持续探索 AI 产品的落地方式。
+我关注从用户问题到产品落地的过程：定义场景、设计工作流、验证原型，并在反馈中持续迭代。
 
-[代表项目](#selected-projects) · [关注方向](#focus) · [浏览仓库](https://github.com/wind-far?tab=repositories)
-
-</div>
-
----
-
-<a id="selected-projects"></a>
-
-## Selected projects
-
-### [懒得动 · Lazy2Move ↗](https://github.com/wind-far/lazy2move)
-
-**让周末出门，从一个更容易的决定开始。**
-
-面向本地周末玩乐的产品初版：选择城市和偏好，抽取玩法，查看详情与地图，再加入待办、跟踪完成状态。通过有限重抽，把挑选过程推进到行动。
-
-`偏好选择 → 玩法抽取 → 详情确认 → 今日待办`
-
-Expo / React Native Web · TypeScript · Node.js · MySQL
-
-### [Kina ↗](https://github.com/wind-far/kina)
-
-**把 AI 创作的入口、过程和结果，放进同一个工作空间。**
-
-AI 创作与运营平台原型，围绕对话、可视化画布和生成任务组织创作体验。工作流支持节点编排、版本快照与回滚，后台提供模型、技能和资源配置。
-
-当前工作流支持 LLM 与图片节点执行；视频整图执行仍在接入中。
-
-Vue 3 / Vue Flow · Node.js · Prisma · PostgreSQL · Redis（可选）
+🛠️ [Projects](https://github.com/wind-far?tab=repositories) · 🧩 [Skills](https://github.com/wind-far/wind-skill)
 
 ---
 
-<a id="focus"></a>
+## ⭐ Featured projects
 
-## Focus
+用产品思考与工程实践，探索具体问题的解决方式。
 
-- **产品判断** — 从用户问题出发，明确场景、能力边界和交互流程。
-- **Agent 与工作流** — 探索任务编排、工具调用、状态反馈和人工确认。
-- **效果评测** — 关注测试集、失败样本与验收标准，让结论有依据。
-- **原型与交付** — 用可运行的原型检验方案，并在反馈中持续迭代。
+🎲 [**懒得动 · lazy2move**](https://github.com/wind-far/lazy2move)  
+本地周末玩乐决策产品初版。  
+串联城市与偏好选择、玩法抽取、地图导航及今日待办。  
+通过有限重抽，让“去哪玩”的决定更容易推进到行动。
 
-<div align="center">
+🎬 [**Kina**](https://github.com/wind-far/kina)  
+AI 创作与运营平台原型。  
+围绕对话、可视化工作流与生成任务组织创作体验，支持版本快照与回滚。  
+工作流已支持 LLM 与图片节点执行，视频整图执行仍在接入中。
 
-<br>
+🧩 [**wind-skill**](https://github.com/wind-far/wind-skill)  
+围绕 AI 写作检测的 Agent Skill 实践。
 
-Make ideas tangible. Keep learning by building.
+---
 
-[Explore my work on GitHub ↗](https://github.com/wind-far?tab=repositories)
+## ✍️ Writing & exploration
 
-</div>
+关注 AI 产品实践中的具体问题，也持续整理自己的思考：
+
+- Agent 的任务编排、工具调用与人工确认
+- AI 内容生产中的工作流与质量控制
+- 模型评测中的测试集、失败样本与验收标准
+- 从产品想法到可运行原型的实践
+
+---
+
+## About
+
+- AI Native Product Manager · AI Builder
+- 关注 AI 产品、Agent 与工作流设计
+- 通过原型与工程实践检验产品方案
+- 持续探索可复现、可比较的效果评测
+
+---
