@@ -1,57 +1,60 @@
-# Hi, I'm Wind 👋
+<div align="center">
 
-**AI Native Product Manager · AI Builder**<br>
-I turn AI product ideas into working, testable systems — from product framing and workflows to prototypes, evaluation, and delivery.
+# Hi, I'm Wind.
 
-我关注的不只是“接入一个模型”，而是如何把 AI 能力变成用户可理解、团队可交付、结果可验证的产品闭环。
+**AI Native Product Manager · AI Builder**
 
-[![GitHub](https://img.shields.io/badge/GitHub-wind--far-181717?logo=github)](https://github.com/wind-far)
+把 AI 想法，做成可使用、可验证的产品。
 
----
+从场景判断、交互设计到原型实现，持续探索 AI 产品的落地方式。
 
-## 🚀 Featured projects
+[代表项目](#selected-projects) · [关注方向](#focus) · [浏览仓库](https://github.com/wind-far?tab=repositories)
 
-### [懒得动 · lazy2move](https://github.com/wind-far/lazy2move)
-
-面向 Web、iOS、Android 的本地周末玩乐决策产品，把“想出去但不知道去哪”转化为一条完整决策链路：
-
-`城市与偏好 → 玩法抽取 → 详情确认 → 加入待办 → 状态跟踪`
-
-- 支持匿名设备会话与可选账号体系
-- 包含重抽约束、地图导航、本周约定、签到与成长资产等产品机制
-- 使用 Expo / React Native Web、Node.js、TypeScript 与 MySQL 构建
-
-### [Kina](https://github.com/wind-far/kina)
-
-AI 创作与运营平台原型，覆盖从创作入口、可视化工作流到后台运营的完整产品结构。
-
-- 支持 Agent、图片与视频等多种创作模式
-- 基于 Vue Flow 实现节点编排、版本快照、回滚与依赖校验
-- 通过 SSE 展示生成任务状态，并提供模型、技能、资源和用户管理能力
-- 使用 Vue 3、Node.js、Prisma、PostgreSQL，并支持可选 Redis 集成
+</div>
 
 ---
 
-## 🧭 What I focus on
+<a id="selected-projects"></a>
 
-- **AI product design** — 场景判断、需求拆解、能力边界与交互闭环
-- **Agent & workflow** — 工具调用、任务编排、状态反馈与人工确认
-- **Evaluation** — 从“看起来能用”走向可复现、可比较、可验收
-- **Prototype to delivery** — 用代码和原型降低沟通成本，推动产品真实落地
+## Selected projects
+
+### [懒得动 · Lazy2Move ↗](https://github.com/wind-far/lazy2move)
+
+**让周末出门，从一个更容易的决定开始。**
+
+面向本地周末玩乐的产品初版：选择城市和偏好，抽取玩法，查看详情与地图，再加入待办、跟踪完成状态。通过有限重抽，把挑选过程推进到行动。
+
+`偏好选择 → 玩法抽取 → 详情确认 → 今日待办`
+
+Expo / React Native Web · TypeScript · Node.js · MySQL
+
+### [Kina ↗](https://github.com/wind-far/kina)
+
+**把 AI 创作的入口、过程和结果，放进同一个工作空间。**
+
+AI 创作与运营平台原型，围绕对话、可视化画布和生成任务组织创作体验。工作流支持节点编排、版本快照与回滚，后台提供模型、技能和资源配置。
+
+当前工作流支持 LLM 与图片节点执行；视频整图执行仍在接入中。
+
+Vue 3 / Vue Flow · Node.js · Prisma · PostgreSQL · Redis（可选）
 
 ---
 
-## 🧰 Product & technical toolkit
+<a id="focus"></a>
 
-`Product Discovery` · `PRD` · `Agent Workflow` · `Prompt Design` · `Evaluation`<br>
-`TypeScript` · `Vue` · `React Native / Expo` · `Node.js` · `PostgreSQL / MySQL` · `Redis`
+## Focus
 
----
+- **产品判断** — 从用户问题出发，明确场景、能力边界和交互流程。
+- **Agent 与工作流** — 探索任务编排、工具调用、状态反馈和人工确认。
+- **效果评测** — 关注测试集、失败样本与验收标准，让结论有依据。
+- **原型与交付** — 用可运行的原型检验方案，并在反馈中持续迭代。
 
-## 🌱 Currently exploring
+<div align="center">
 
-- AI Agent 的任务规划、工具治理与失败恢复
-- 面向真实业务测试集的模型与工作流评测
-- AI 内容生产中的工作流、质量控制与人机协作
+<br>
 
-> Engineering is how I make product decisions concrete, testable, and easier to align.
+Make ideas tangible. Keep learning by building.
+
+[Explore my work on GitHub ↗](https://github.com/wind-far?tab=repositories)
+
+</div>
