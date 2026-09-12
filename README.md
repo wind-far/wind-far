@@ -33,14 +33,12 @@ An agent skill experiment focused on detecting AI writing patterns.
 
 ---
 
-## ✍️ Writing & exploration
+## ✍️ Writing
 
-Topics I'm exploring and developing my thinking on:
+Thoughts on AI capabilities and the practical challenges of building AI products. Published on Xiaohongshu in Chinese.
 
-- Agent task orchestration, tool use, and human confirmation
-- Workflows and quality control in AI content production
-- Test datasets, failure cases, and acceptance criteria for model evaluation
-- Taking product ideas from concept to working prototype
+- [How Far Is GPT-6 from AGI?](https://www.xiaohongshu.com/discovery/item/6aa560a8000000002a007954?source=webshare&xhsshare=pc_web&xsec_token=YBmHLmasQKlkDzNBr31TogGmszOqYcKpBkqyiCWyA6GxE=&xsec_source=pc_share)
+- [The Content Agent Has Finished Writing, but I Still Can't Publish](https://www.xiaohongshu.com/discovery/item/6aa42656000000000b0348d1?source=webshare&xhsshare=pc_web&xsec_token=YB06scQ4GY-0F7009hyBelyHzUiXZkG1FOu8j3N-PkElI=&xsec_source=pc_share)
 
 ---
 
