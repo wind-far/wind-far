@@ -37,8 +37,8 @@ An agent skill experiment focused on detecting AI writing patterns.
 
 Thoughts on AI capabilities and the practical challenges of building AI products. Published on Xiaohongshu in Chinese.
 
-- [How Far Is GPT-6 from AGI?](https://www.xiaohongshu.com/discovery/item/6aa560a8000000002a007954?source=webshare&xhsshare=pc_web&xsec_token=YBmHLmasQKlkDzNBr31TogGmszOqYcKpBkqyiCWyA6GxE=&xsec_source=pc_share)
-- [The Content Agent Has Finished Writing, but I Still Can't Publish](https://www.xiaohongshu.com/discovery/item/6aa42656000000000b0348d1?source=webshare&xhsshare=pc_web&xsec_token=YB06scQ4GY-0F7009hyBelyHzUiXZkG1FOu8j3N-PkElI=&xsec_source=pc_share)
+- [GPT-6离AGI还有多远？](https://www.xiaohongshu.com/discovery/item/6aa560a8000000002a007954?source=webshare&xhsshare=pc_web&xsec_token=YBmHLmasQKlkDzNBr31TogGmszOqYcKpBkqyiCWyA6GxE=&xsec_source=pc_share)
+- [内容 Agent 写完了，但我还不能发](https://www.xiaohongshu.com/discovery/item/6aa42656000000000b0348d1?source=webshare&xhsshare=pc_web&xsec_token=YB06scQ4GY-0F7009hyBelyHzUiXZkG1FOu8j3N-PkElI=&xsec_source=pc_share)
 
 ---
 
