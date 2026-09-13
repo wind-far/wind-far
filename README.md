@@ -10,7 +10,7 @@ My work connects product framing, interaction design, and working prototypes.
 
 I start with user problems, define use cases, design workflows, and test prototypes — then iterate based on feedback.
 
-📕 [Xiaohongshu](https://www.xiaohongshu.com/user/profile/67875f8d000000000801e012)
+📕 [Xiaohongshu](https://www.xiaohongshu.com/user/profile/67875f8d000000000801e012) · ✉️ [Email](mailto:lvhao4748@163.com)
 
 ---
 
