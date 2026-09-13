@@ -10,7 +10,7 @@ My work connects product framing, interaction design, and working prototypes.
 
 I start with user problems, define use cases, design workflows, and test prototypes — then iterate based on feedback.
 
-🛠️ [Projects](https://github.com/wind-far?tab=repositories) · 🧩 [Skills](https://github.com/wind-far/wind-skill) · 📕 [Xiaohongshu](https://www.xiaohongshu.com/user/profile/67875f8d000000000801e012)
+📕 [Xiaohongshu](https://www.xiaohongshu.com/user/profile/67875f8d000000000801e012)
 
 ---
 
