@@ -1,52 +1,52 @@
-# Hi, I'm Wind 👋
+# 你好，我是 Wind 👋
 
-[![Visit Wind's personal website](https://raw.githubusercontent.com/wind-far/wind-far/main/assets/portfolio-launch.svg)](https://wind-far.github.io/)
+**简体中文** · [English](README.en.md)
 
-<p align="center"><sub>Click the terminal above to launch my personal website</sub></p>
+[![点击访问 Wind 的个人网站](https://raw.githubusercontent.com/wind-far/wind-far/main/assets/portfolio-launch.svg)](https://wind-far.github.io/)
 
-I'm an AI Native Product Manager and AI Builder.  
-I explore how AI capabilities become useful product experiences.  
-My work connects product framing, interaction design, and working prototypes.
+<p align="center"><sub>点击上方终端，进入我的个人网站</sub></p>
 
-I start with user problems, define use cases, design workflows, and test prototypes — then iterate based on feedback.
+我是一名 AI 原生产品经理，也是 AI Builder。  
+关注如何把 AI 能力转化为用户可用的产品体验。  
+从用户问题出发，定义场景、设计交互与工作流，通过可运行的原型验证方案，并在反馈中持续迭代。
 
-🌐 [Website](https://wind-far.github.io/) · 📕 [Xiaohongshu](https://www.xiaohongshu.com/user/profile/67875f8d000000000801e012) · ✉️ [Email](mailto:lvhao4748@163.com)
+🌐 [个人网站](https://wind-far.github.io/) · 📕 [小红书](https://www.xiaohongshu.com/user/profile/67875f8d000000000801e012) · ✉️ [邮箱](mailto:lvhao4748@163.com)
 
 ---
 
-## ⭐ Featured projects
+## ⭐ 代表项目
 
-Exploring practical problems through product thinking and hands-on engineering.
+用产品思考与工程实践，探索具体问题的解决方式。
 
-🎲 [**Lazy2Move**](https://github.com/wind-far/lazy2move)  
-An early-stage product for deciding what to do locally on weekends.  
-Connects city and preference selection, activity suggestions, map navigation, and daily to-dos.  
-Limits rerolls to help users move from choosing an activity to taking action.
+🎮 [**Ludraft · 游芽**](https://github.com/wind-far/ludraft/blob/main/README.zh-CN.md)  
+面向 2D 浏览器游戏的本地 AI 创作工作台，串联玩法规划、开发、试玩与迭代。  
+支持玩法确认、八角色协作、Docker 构建与浏览器验证、版本回滚及源码导出。  
+当前为基于四类游戏模板的本地 MVP，真实模型端到端质量与人工可玩性评估仍待完成。
 
 🎬 [**Kina**](https://github.com/wind-far/kina)  
-A prototype platform for AI creation and operations.  
-Organizes the creative process around conversations, visual workflows, and generation tasks, with version snapshots and rollback.  
-Workflow execution supports LLM and image nodes; end-to-end video workflow execution is still being integrated.
+AI 创作与运营平台原型。  
+围绕对话、可视化工作流与生成任务组织创作体验，支持版本快照与回滚。  
+工作流已支持 LLM 与图片节点执行，视频整图执行仍在接入中。
 
 🧩 [**wind-skill**](https://github.com/wind-far/wind-skill)  
-An agent skill experiment focused on detecting AI writing patterns.
+围绕 AI 写作特征检测的 Agent Skill 实践。
 
 ---
 
-## ✍️ Writing
+## ✍️ 写作
 
-Thoughts on AI capabilities and the practical challenges of building AI products. Published on Xiaohongshu in Chinese.
+记录对 AI 能力与产品落地问题的思考，文章发布于小红书。
 
 - [GPT-6离AGI还有多远？](https://www.xiaohongshu.com/discovery/item/6aa560a8000000002a007954?source=webshare&xhsshare=pc_web&xsec_token=YBmHLmasQKlkDzNBr31TogGmszOqYcKpBkqyiCWyA6GxE=&xsec_source=pc_share)
 - [内容 Agent 写完了，但我还不能发](https://www.xiaohongshu.com/discovery/item/6aa42656000000000b0348d1?source=webshare&xhsshare=pc_web&xsec_token=YB06scQ4GY-0F7009hyBelyHzUiXZkG1FOu8j3N-PkElI=&xsec_source=pc_share)
 
 ---
 
-## About
+## 关于我
 
-- AI Native Product Manager · AI Builder
-- Focused on AI products, agents, and workflow design
-- Testing product ideas through prototypes and hands-on engineering
-- Exploring reproducible evaluations and meaningful comparisons
+- AI 原生产品经理 · AI Builder
+- 关注 AI 产品、Agent 与工作流设计
+- 通过原型与工程实践检验产品方案
+- 持续探索可复现、可比较的效果评测
 
 ---
