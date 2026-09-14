@@ -1,8 +1,8 @@
 # Hi, I'm Wind 👋
 
-[![Explore Wind's product workspace](https://raw.githubusercontent.com/wind-far/wind-far/main/assets/profile-banner.svg)](https://github.com/wind-far?tab=repositories)
+[![Visit Wind's personal website](https://raw.githubusercontent.com/wind-far/wind-far/main/assets/profile-banner.svg)](https://wind-far.github.io/)
 
-<p align="center"><sub>Click the window above to explore my projects</sub></p>
+<p align="center"><sub>Click the window above to launch my personal website</sub></p>
 
 I'm an AI Native Product Manager and AI Builder.  
 I explore how AI capabilities become useful product experiences.  
@@ -10,7 +10,7 @@ My work connects product framing, interaction design, and working prototypes.
 
 I start with user problems, define use cases, design workflows, and test prototypes — then iterate based on feedback.
 
-📕 [Xiaohongshu](https://www.xiaohongshu.com/user/profile/67875f8d000000000801e012) · ✉️ [Email](mailto:lvhao4748@163.com)
+🌐 [Website](https://wind-far.github.io/) · 📕 [Xiaohongshu](https://www.xiaohongshu.com/user/profile/67875f8d000000000801e012) · ✉️ [Email](mailto:lvhao4748@163.com)
 
 ---
 
