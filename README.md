@@ -21,7 +21,6 @@
 🎮 [**Ludraft · 游芽**](https://github.com/wind-far/ludraft/blob/main/README.zh-CN.md)  
 面向 2D 浏览器游戏的本地 AI 创作工作台，串联玩法规划、开发、试玩与迭代。  
 支持玩法确认、八角色协作、Docker 构建与浏览器验证、版本回滚及源码导出。  
-当前为基于四类游戏模板的本地 MVP，真实模型端到端质量与人工可玩性评估仍待完成。
 
 🎬 [**Kina**](https://github.com/wind-far/kina)  
 AI 创作与运营平台原型。  
