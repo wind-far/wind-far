@@ -1,8 +1,8 @@
 # Hi, I'm Wind 👋
 
-[![Visit Wind's personal website](https://raw.githubusercontent.com/wind-far/wind-far/main/assets/profile-banner.svg)](https://wind-far.github.io/)
+[![Visit Wind's personal website](https://raw.githubusercontent.com/wind-far/wind-far/main/assets/portfolio-launch.svg)](https://wind-far.github.io/)
 
-<p align="center"><sub>Click the window above to launch my personal website</sub></p>
+<p align="center"><sub>Click the terminal above to launch my personal website</sub></p>
 
 I'm an AI Native Product Manager and AI Builder.  
 I explore how AI capabilities become useful product experiences.  
