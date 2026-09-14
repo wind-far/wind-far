@@ -1,0 +1,54 @@
+# Hi, I'm Wind 👋
+
+[简体中文](README.md) · **English**
+
+[![Visit Wind's personal website](https://raw.githubusercontent.com/wind-far/wind-far/main/assets/portfolio-launch.svg)](https://wind-far.github.io/)
+
+<p align="center"><sub>Click the terminal above to launch my personal website</sub></p>
+
+I'm an AI Native Product Manager and AI Builder.  
+I explore how AI capabilities become useful product experiences.  
+My work connects product framing, interaction design, and working prototypes.
+
+I start with user problems, define use cases, design workflows, and test prototypes — then iterate based on feedback.
+
+🌐 [Website](https://wind-far.github.io/) · 📕 [Xiaohongshu](https://www.xiaohongshu.com/user/profile/67875f8d000000000801e012) · ✉️ [Email](mailto:lvhao4748@163.com)
+
+---
+
+## ⭐ Featured projects
+
+Exploring practical problems through product thinking and hands-on engineering.
+
+🎮 [**Ludraft · 游芽**](https://github.com/wind-far/ludraft)  
+A local AI workbench for planning, building, playtesting, and iterating on 2D browser games.  
+Combines gameplay approval, eight-role collaboration, Docker validation, version history, and source export.  
+Currently a local MVP based on four game templates; real-model end-to-end quality and human playability evaluation remain pending.
+
+🎬 [**Kina**](https://github.com/wind-far/kina)  
+A prototype platform for AI creation and operations.  
+Organizes the creative process around conversations, visual workflows, and generation tasks, with version snapshots and rollback.  
+Workflow execution supports LLM and image nodes; end-to-end video workflow execution is still being integrated.
+
+🧩 [**wind-skill**](https://github.com/wind-far/wind-skill)  
+An agent skill experiment focused on detecting AI writing patterns.
+
+---
+
+## ✍️ Writing
+
+Thoughts on AI capabilities and the practical challenges of building AI products. Published on Xiaohongshu in Chinese.
+
+- [GPT-6离AGI还有多远？](https://www.xiaohongshu.com/discovery/item/6aa560a8000000002a007954?source=webshare&xhsshare=pc_web&xsec_token=YBmHLmasQKlkDzNBr31TogGmszOqYcKpBkqyiCWyA6GxE=&xsec_source=pc_share)
+- [内容 Agent 写完了，但我还不能发](https://www.xiaohongshu.com/discovery/item/6aa42656000000000b0348d1?source=webshare&xhsshare=pc_web&xsec_token=YB06scQ4GY-0F7009hyBelyHzUiXZkG1FOu8j3N-PkElI=&xsec_source=pc_share)
+
+---
+
+## About
+
+- AI Native Product Manager · AI Builder
+- Focused on AI products, agents, and workflow design
+- Testing product ideas through prototypes and hands-on engineering
+- Exploring reproducible evaluations and meaningful comparisons
+
+---
