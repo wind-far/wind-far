@@ -1,6 +1,6 @@
 # 你好，我是 Wind 👋
 
-**简体中文** · [English](README.en.md)
+**简体中文** · [English](https://github.com/wind-far/wind-far/blob/main/README.en.md)
 
 [![点击访问 Wind 的个人网站](https://raw.githubusercontent.com/wind-far/wind-far/main/assets/portfolio-launch.svg)](https://wind-far.github.io/)
 
@@ -18,7 +18,7 @@
 
 用产品思考与工程实践，探索具体问题的解决方式。
 
-🎮 [**Ludraft · 游芽**](https://github.com/wind-far/ludraft/blob/main/README.zh-CN.md)  
+🎮 [**Ludraft · 游芽**](https://github.com/wind-far/wind-game-dev)  
 面向 2D 浏览器游戏的本地 AI 创作工作台，串联玩法规划、开发、试玩与迭代。  
 支持玩法确认、八角色协作、Docker 构建与浏览器验证、版本回滚及源码导出。  
 
