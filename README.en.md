@@ -1,6 +1,6 @@
 # Hi, I'm Wind 👋
 
-[简体中文](README.md) · **English**
+[简体中文](https://github.com/wind-far) · **English**
 
 [![Visit Wind's personal website](https://raw.githubusercontent.com/wind-far/wind-far/main/assets/portfolio-launch.svg)](https://wind-far.github.io/)
 
@@ -20,7 +20,7 @@ I start with user problems, define use cases, design workflows, and test prototy
 
 Exploring practical problems through product thinking and hands-on engineering.
 
-🎮 [**Ludraft · 游芽**](https://github.com/wind-far/ludraft)  
+🎮 [**Ludraft · 游芽**](https://github.com/wind-far/wind-game-dev/blob/main/README.en.md)  
 A local AI workbench for planning, building, playtesting, and iterating on 2D browser games.  
 Combines gameplay approval, eight-role collaboration, Docker validation, version history, and source export.  
 Currently a local MVP based on four game templates; real-model end-to-end quality and human playability evaluation remain pending.
